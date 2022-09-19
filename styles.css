@@ -1,7 +1,12 @@
 html {
     background: url(images/ocean.jpg) no-repeat center center fixed;
+    color: #CF2B08 ;
 }
 
 h1 {
+    text-align: center;
+}
+
+footer {
     text-align: center;
 }
